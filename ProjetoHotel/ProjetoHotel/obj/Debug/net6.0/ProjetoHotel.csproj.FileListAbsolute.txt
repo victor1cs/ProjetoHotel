@@ -1,0 +1,15 @@
+C:\Users\victor1cs\ws-vs2022\Projeto3\ProjetoHotel\ProjetoHotel\bin\Debug\net6.0\ProjetoHotel.exe
+C:\Users\victor1cs\ws-vs2022\Projeto3\ProjetoHotel\ProjetoHotel\bin\Debug\net6.0\ProjetoHotel.deps.json
+C:\Users\victor1cs\ws-vs2022\Projeto3\ProjetoHotel\ProjetoHotel\bin\Debug\net6.0\ProjetoHotel.runtimeconfig.json
+C:\Users\victor1cs\ws-vs2022\Projeto3\ProjetoHotel\ProjetoHotel\bin\Debug\net6.0\ProjetoHotel.dll
+C:\Users\victor1cs\ws-vs2022\Projeto3\ProjetoHotel\ProjetoHotel\bin\Debug\net6.0\ProjetoHotel.pdb
+C:\Users\victor1cs\ws-vs2022\Projeto3\ProjetoHotel\ProjetoHotel\obj\Debug\net6.0\ProjetoHotel.csproj.AssemblyReference.cache
+C:\Users\victor1cs\ws-vs2022\Projeto3\ProjetoHotel\ProjetoHotel\obj\Debug\net6.0\ProjetoHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor1cs\ws-vs2022\Projeto3\ProjetoHotel\ProjetoHotel\obj\Debug\net6.0\ProjetoHotel.AssemblyInfoInputs.cache
+C:\Users\victor1cs\ws-vs2022\Projeto3\ProjetoHotel\ProjetoHotel\obj\Debug\net6.0\ProjetoHotel.AssemblyInfo.cs
+C:\Users\victor1cs\ws-vs2022\Projeto3\ProjetoHotel\ProjetoHotel\obj\Debug\net6.0\ProjetoHotel.csproj.CoreCompileInputs.cache
+C:\Users\victor1cs\ws-vs2022\Projeto3\ProjetoHotel\ProjetoHotel\obj\Debug\net6.0\ProjetoHotel.dll
+C:\Users\victor1cs\ws-vs2022\Projeto3\ProjetoHotel\ProjetoHotel\obj\Debug\net6.0\refint\ProjetoHotel.dll
+C:\Users\victor1cs\ws-vs2022\Projeto3\ProjetoHotel\ProjetoHotel\obj\Debug\net6.0\ProjetoHotel.pdb
+C:\Users\victor1cs\ws-vs2022\Projeto3\ProjetoHotel\ProjetoHotel\obj\Debug\net6.0\ProjetoHotel.genruntimeconfig.cache
+C:\Users\victor1cs\ws-vs2022\Projeto3\ProjetoHotel\ProjetoHotel\obj\Debug\net6.0\ref\ProjetoHotel.dll
